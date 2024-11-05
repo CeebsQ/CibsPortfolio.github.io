@@ -3,7 +3,7 @@
 
 <!-- [Link to another page](./another-page.html). -->
 
-# C Tic-Tac-Toe
+## C Tic-Tac-Toe
 
 A Tic-Tac-Toe game I made in C using Visual Studio. You can play alone against the computer or with a friend in two player mode.
 
@@ -11,19 +11,19 @@ A Tic-Tac-Toe game I made in C using Visual Studio. You can play alone against t
 
 A simple Python program that encrypts a string using random characters (including whitespace). It can also decrypt strings when provided with a valid key.
 
-### Polite Hack
+## Polite Hack
 
 A simple Batch program that infinitely creates windows to crash a computer.
 
-#### DDos Test
+### DDos Test
 
 A simple Batch file that infinitely sends pings to a specified IP address.
 
-### Small image
+## Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+## Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
