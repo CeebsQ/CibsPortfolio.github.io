@@ -6,17 +6,17 @@ layout: default
 
 <!-- [Link to another page](./another-page.html). -->
 
-# Header 1
+# C Tic-Tac-Toe
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+A Tic-Tac-Toe game I made in C using Visual Studio. You can play alone against the computer or with a friend in two player mode.
 
-## Header 2
+## Python Substitution Encryption
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+A simple Python program that encrypts a string using random characters (including whitespace). It can also decrypt strings when provided with a valid key.
 
-### Header 3
+### Polite Hack
+
+A simple Batch program that infinitely creates windows to crash a computer.
 
 ```js
 // Javascript code with syntax highlighting.
