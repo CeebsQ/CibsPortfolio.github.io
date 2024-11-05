@@ -7,7 +7,7 @@
 
 A Tic-Tac-Toe game I made in C using Visual Studio. You can play alone against the computer or with a friend in two player mode.
 
-####Picture
+#### Picture
 
 ## Python Substitution Encryption
 
