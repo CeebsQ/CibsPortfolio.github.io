@@ -7,6 +7,8 @@
 
 A Tic-Tac-Toe game I made in C using Visual Studio. You can play alone against the computer or with a friend in two player mode.
 
+####Picture
+
 ## Python Substitution Encryption
 
 A simple Python program that encrypts a string using random characters (including whitespace). It can also decrypt strings when provided with a valid key.
