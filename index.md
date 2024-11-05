@@ -17,7 +17,7 @@ A simple Python program that encrypts a string using random characters (includin
 
 A simple Batch program that infinitely creates windows to crash a computer.
 
-### DDos Test
+## DDos Test
 
 A simple Batch file that infinitely sends pings to a specified IP address.
 
